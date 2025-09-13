@@ -50,14 +50,19 @@ Open Swagger docs at: http://127.0.0.1:8000/docs
 
 🖥️ API Usage
 Endpoint
+```
 POST /generate-post
+```
 
 Input (JSON)
+```
 {
   "topic": "Artificial Intelligence"
 }
+```
 
 Example Response
+```
 {
   "topic": "Artificial Intelligence",
   "news_sources": [
@@ -68,6 +73,7 @@ Example Response
   "linkedin_post": "Artificial Intelligence continues to transform industries ...",
   "image_suggestion": null
 }
+```
 
 🌐 Live Swagger API
 
