@@ -72,6 +72,4 @@ Example Response
 }
 ```
 
-🌐 Live Swagger API
-
-👉 Hosted Swagger Docs
+🌐 [Live Swagger API](https://demanualai-assignment-oogn.vercel.app/docs)
